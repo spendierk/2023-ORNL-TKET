@@ -18,13 +18,15 @@ In this section, we will highlight the unique features of Quantinuum H-Series tr
 Participants will study error correction and mitigation on the H-Series platform, including real-time decoding with color code, two-qubit gates, and circuit construction using OpenQASM, Q#, and QIR. The session also covers error detection via Iceberg code.
 
 4) TKET User Features:
-This section highlights the powerful features of [TKET](https://www.quantinuum.com/developers/tket), Quantinuum's advanced software development kit (SDK). Among other topics, participants will learn about PyTKET, circuit submission to H-series devices, compilation options, emulator usage with noise models, mid-circuit measurement, and circuit conversion to and from other SDKs. They will also explore performance optimization for IBM and otherRigetti platforms.
+This section highlights the powerful features of [TKET](https://www.quantinuum.com/developers/tket), Quantinuum's advanced software development kit (SDK). Among other topics, participants will learn about [PyTKET](https://cqcl.github.io/tket/pytket/api/getting_started.html), circuit submission to H-series devices, compilation options, emulator usage with noise models, mid-circuit measurement, and circuit conversion to and from other SDKs. They will also explore performance optimization for IBM and otherRigetti platforms.
 
 ## This repository contains the notebook for the "TKET User Features" section of the workshop.
 
 # Getting started with TKET
 
-# [Installation](https://cqcl.github.io/pytket/manual/manual_intro.html#installation)
-Tket is currently available through its pythonic realisation `pytket`, which is freely available under the Apache 2 license. To install using the pip package manager, just run `pip install pytket` from your terminal. Each extension module can also be installed similarly as `pip install pytket_X`, e.g. `pip install pytket_qiskit`.
+## [Installation](https://cqcl.github.io/pytket/manual/manual_intro.html#installation)
+TKET is currently available through its pythonic realization `pytket`, which is freely available under the Apache 2 license. To install using the pip package manager, just run `pip install pytket` from your terminal. Each extension module can also be installed similarly as `pip install pytket_X`, e.g. `pip install pytket_qiskit`.
 
 `pytket` is available for python versions 3.8-10 on Linux, MacOS, and Windows. For any difficulties with installation, please consult our [troubleshooting page](https://cqcl.github.io/tket/pytket/api/install.html).
+
+## User manual()
