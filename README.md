@@ -10,7 +10,9 @@ The Quantum Computing User Forum, hosted by Oak Ridge National Laboratory, bring
 ## This repository contains the notebook for the "TKET User Features" section of the Quantinuum workshop.
 
 ## Installation
-The requirements to run the notebook. Problems? See this support page -> https://cqcl.github.io/tket/pytket/api/install.html and
+The requirements to run the notebook are [here](https://github.com/spendierk/2023-ORNL-TKET/blob/main/requirements.txt). 
+
+Problems? See this support page -> https://cqcl.github.io/tket/pytket/api/install.html and
 https://jupyter.org/install
 
 ## Useful links to `pytket` documentation
