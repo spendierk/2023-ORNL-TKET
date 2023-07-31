@@ -23,8 +23,8 @@ https://jupyter.org/install
 
 ## Support
 
-For queries related to H-series, including hardware, emulator noise/performance, and other technical matters, please email [QCsupport](mailto:QCsupport@quantinuum.com).
+For queries related to H-series, including hardware, emulator noise/performance, and other technical matters, please email [QCsupport](mailto:QCsupport@quantinuum.com) at QCsupport@quantinuum.com.
 
-For issues related to software, compiler, or circuit optimizations under the scope of the TKET team, please direct your questions to our dedicated [Slack channel](https://tketusers.slack.com/join/shared_invite/zt-18qmsamj9-UqQFVdkRzxnXCcKtcarLRA#/shared-invite/email) at tketusers.slack.com.
+For issues related to software, compiler, or circuit optimizations under the scope of the TKET team, please direct your questions to our dedicated [Slack channel](https://tketusers.slack.com/join/shared_invite/zt-18qmsamj9-UqQFVdkRzxnXCcKtcarLRA#/shared-invite/email) at https://tketusers.slack.com.
 
 There is also a `pytket` tag on [quantum computing stack exchange](https://quantumcomputing.stackexchange.com/questions/tagged/pytket).
